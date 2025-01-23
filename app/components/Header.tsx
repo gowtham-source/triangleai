@@ -22,7 +22,7 @@ export default function Header() {
       <Card className="w-full border-none bg-white">
         <CardContent className="p-4 text-center border-none text-black">
           <h1 className="text-2xl md:text-3xl font-bold mb-2">Triangle AI</h1>
-          <p className="text-sm md:text-xl">Hi, I'm Prajeet from 6th Std G section Sri Krish International. This is my project Triangle AI.</p>
+          <p className="text-sm md:text-xl">Hi, I'm Prajeet from 6th Std G section Sri Krish International. This is my project Triangle AI which is a Ai powered tool created by me.</p>
         </CardContent>
       </Card>
     </motion.div>
